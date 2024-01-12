@@ -14,8 +14,8 @@
   { user_id: 1, name: "manoj", email: "manojconcept@example.com" },
   { user_id: 2, name: "tsaki", email: "tsaki@example.com" },
   { user_id: 3, name: "kindog", email: "kindog@example.com" },
-  { user_id: 4, name: "David", email: "david gogge@example.com" },
-  { user_id: 5, name: "Eva", email: "david gogge@example.com" },
+  { user_id: 4, name: "David", email: "davidgogge@example.com" },
+  { user_id: 5, name: "Eva Mariamma", email: "evamariamma@example.com" },
 ]);
 
 // Codekata collection
